@@ -1,0 +1,29 @@
+1. Keep the .dll files in the folder with the youtube bot.
+2. Start the youtube bot.
+3. Choose the accounts.txt file with your private youtube accounts.
+Example of how the accounts should be set up in the accounts.txt
+youtubeaccount1:password1
+youtubeaccount2:password2
+4. Choose the videos.txt do not add the extra crap onto the youtube videos
+Example of how the videos should be set up in the videos.txt
+http://www.youtube.com/watch?v=iTTz9AefsFk
+http://www.youtube.com/watch?v=lB6Ryby3QXw
+Example of how the videos SHOULD NOT be set up
+http://www.youtube.com/watch?v=lB6Ryby3QXw&feature=relmfu
+http://www.youtube.com/watch?v=G_frOrOgUS8&feature=relmfu
+5. Click like or dislike on the application :)
+
+
+Some quick tips:
+If you get "account disable" message me.
+If you get invalid credentials that means your accounts are fucked or you put in
+the wrong password.
+A good idea would not to over use this youtube bot for the
+sake of your accounts getting banned and the bot being patched
+... but I know that is a lost cause. 
+
+Anyways enjoy!
+oh and yes this guide was written in 5 minutes.
+
+Contact info:
+http://www.hackforums.net/member.php?action=profile&uid=1243490
